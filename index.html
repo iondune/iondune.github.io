@@ -1,0 +1,20 @@
+---
+layout: default
+title: iondune.github.io
+---
+
+<div id="home">
+  <h1 class="cover-heading">Hello!</h1>
+  <p class="lead">
+    I made this page to organize some quick links and publish content for classes.
+    You can find out more about who I am at my personal website,
+    <a href="http://www.iondune.com">www.iondune.com</a>.
+  </p>
+
+  <h1>Pages</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

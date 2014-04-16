@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "CSC 481"
+date:   2014-04-15 17:25:58
+categories:
+---
+
+## Links
+* [Course Webpage](http://users.csc.calpoly.edu/~fkurfess/Courses/481/S14/)
+* [Piazza](https://piazza.com/class/hs897ddc9b2jk)
+* [Team Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AsLzUYELMBBCdENST0U5ek4tTzg3ME43dG1NbncwUWc&usp=drive_web#gid=0)
+
+## Assignments
+
+### Assignment 1
+* [GameDevelopment.vue]({{ site.url }}/assets/GameDevelopment.vue)
+* [GameDevelopment.pdf]({{ site.url }}/assets/GameDevelopment.pdf)

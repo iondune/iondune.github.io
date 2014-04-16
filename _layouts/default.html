@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="useful links and content publishing for classes">
+  <meta name="author" content="Ian Dunn">
+  <link rel="shortcut icon" href="http://iondune.com/home/favicon.ico">
+
+  <title>{{ page.title }}</title>
+
+  <link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/darkly/bootstrap.min.css" rel="stylesheet" />
+  <!-- <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet" /> -->
+
+  <link rel="stylesheet" href="/css/cover.css">
+  <link rel="stylesheet" href="/css/syntax.css">
+
+  <style>
+    body {
+      background-color: #222;
+      text-align: left;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <div class="site-wrapper">
+
+    <div class="site-wrapper-inner">
+
+      <div class="cover-container">
+
+        <div class="masthead clearfix">
+          <div class="inner">
+            <h3 class="masthead-brand"><a href="/">{{ site.name }}</a></h3>
+            <ul class="nav masthead-nav">
+              <li class="active"><a href="/">Home</a></li>
+              <li><a href="http://www.iondune.com">iondune.com</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="inner cover">
+          {{ content }}
+        </div>
+
+        <div class="mastfoot">
+          <div class="inner">
+            <p>Cover template for <a href="http://getbootstrap.com">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
