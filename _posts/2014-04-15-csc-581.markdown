@@ -12,6 +12,6 @@ categories:
 
 ## Assignments
 
-### Assignment 2
+### Assignment 1
 * [GameDevelopment.vue]({{ site.url }}/assets/C++11.vue)
 * [GameDevelopment.pdf]({{ site.url }}/assets/C++11.pdf)
