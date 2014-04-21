@@ -9,6 +9,8 @@ categories:
 * [Course Webpage](http://users.csc.calpoly.edu/~fkurfess/Courses/481/S14/)
 * [Piazza](https://piazza.com/class/hs897ddc9b2jk)
 * [Team Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AsLzUYELMBBCdENST0U5ek4tTzg3ME43dG1NbncwUWc&usp=drive_web#gid=0)
+* [KB Nugget Signup Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsLzUYELMBBCdHZvdkw2ZUp5ek9xRXY3T1VKT1BfOFE#gid=0)
+* [Project Documentation](https://github.com/iondune/CalPolySYNTH/wiki)
 
 ## Assignments
 

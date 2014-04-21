@@ -9,6 +9,8 @@ categories:
 * [Course Webpage](http://users.csc.calpoly.edu/~fkurfess/Courses/581/S14/)
 * [Piazza](https://piazza.com/class/hs89otc4raa6ko)
 * [Team Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AsLzUYELMBBCdGR0VEhNYl90Ml9pS2tiMjRscXo4anc&usp=drive_web#gid=0)
+* [Research Presentation Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsLzUYELMBBCdHktZC04Z3FqbVN4YjhpeW1Md0xiaGc&usp=sharing#gid=0)
+* [Project Documentation](https://github.com/iondune/pipelines/wiki)
 
 ## Assignments
 
