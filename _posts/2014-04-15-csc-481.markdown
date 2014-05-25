@@ -18,3 +18,7 @@ categories:
 * [GameDevelopment.vue]({{ site.url }}/assets/GameDevelopment.vue)
 * [GameDevelopment.pdf]({{ site.url }}/assets/GameDevelopment.pdf)
 * [README.md](https://gist.github.com/iondune/11019421)
+
+### KB Nugget
+* [Proposal](https://gist.github.com/iondune/24681a54ef5b72dfdb34)
+* [Presentation](https://docs.google.com/presentation/d/1SsCGcNBaSjXhOl95UuyjlYEl2y3UzvrId7dlZ5c-V04/edit)
